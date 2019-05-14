@@ -1,0 +1,5 @@
+Variable Name,ID,Unit,Positive,Description
+Average Air Temperature,TAVG,degrees Fahrenheit,TRUE,Average of all 5-minute averaged temperature observations each day.
+Maximum Daily Air Temperature,TMAX,degrees Fahrenheit,TRUE,Highest 5-minute averaged temperature observation reported each day.
+Minimum Daily Air Temperature,TMIN,degrees Fahrenheit,FALSE,Lowest 5-minute averaged temperature observation reported each day.
+Average Air Temperature at 9m,9AVG,degrees Fahrenheit,TRUE,Average of all 5-minute averaged 9-m air temperature observations each day.
